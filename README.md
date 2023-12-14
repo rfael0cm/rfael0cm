@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rafael Campos-Martin (@rfael0cm). Researcher at the Uniklinik in Cologne working on Alzheimer's disease and neurologic disiease. I run analysis for genetic, epigenetic and trancriptomic data.
 - 👀 I’m interested in Machine Learning, Artificial Intelligence applied to molecular biology (Genomics, Epigenomics, etc) and medical imaging (brain images).
-- 🌱 I’m currently learning Artificial Intelligence at the International University of Valencia. An online Master's degree.
 - 💞️ I’m looking to collaborate on projects of Computational Biology and Bioinformatics.
 - 📫 How to reach me: rfael.mpi@gmail.com
 
